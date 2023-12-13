@@ -56,7 +56,8 @@
 							<ul>
 								<li>Instalación</li>
 								<li>implementación</li>
-								<li>Mantenimiento</li>
+								<li>Mantenimiento</li><br>
+								<li> <a class="btn btn-primary" href="contacto.php">Cotizar</a></li>
 							</ul>
 						</div>
 					</div>

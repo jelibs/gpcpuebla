@@ -45,9 +45,9 @@
 						</a>
 					</div>
 					<div class="col-md-4 fh5co-project-detail">
-						<h2 class="fh5co-project-title">CCTV - Circuito Cerrado de Televisión</h2>
+						<h2 class="fh5co-project-title">CCTV</h2>
 						<span class="fh5co-project-sub">Nuestro trabajo</span>
-						<p>Contamos con amplia experiencia en la instalación e implementación de sistemas de CCTV, además de ser proveedores de las mejores marcas que existen en el mercado y usar tecnología de punta, contacmos con sistemas completos para videovigilancia, tales como cámaras, grabadores, sistemas de intrusión.
+						<p>Circuito cerrado de televisión (CCTV) residencial, industrial, video vigilancia. Contamos con amplia experiencia en la instalación e implementación de sistemas de CCTV, además de ser proveedores de las mejores marcas que existen en el mercado y usar tecnología de punta, contamos con sistemas completos para videovigilancia, tales como cámaras (fijas y PTZ), grabadores (digitales y análogos), videowall, joystick, switchs, cableado estructurado, sistemas de intrusión.
 							Atendemos la Red de Videovigilancia del C2 (Centro de Comando y Control) del Ayuntamiento de San Pedro Cholula, así como los cuatro Centros de Reinserción Social Estatales del Estado de Tlaxcala.
 						</p>
 	
@@ -56,7 +56,8 @@
 							<ul>
 								<li>Instalación</li>
 								<li>implementación</li>
-								<li>Mantenimiento</li>
+								<li>Mantenimiento</li><br>
+								<li> <a class="btn btn-primary" href="contacto.php">Cotizar</a></li>
 							</ul>
 						</div>
 					</div>

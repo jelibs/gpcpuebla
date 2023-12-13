@@ -37,6 +37,12 @@
 														}else if(url === 'http://localhost/web/radio.php'){
 															var titulo = 'Radiocomunicación';
 															document.title = titulo;
+															}else if(url === 'http://localhost/web/uniformes.php'){
+																var titulo = 'Uniformes';
+																document.title = titulo;
+																}else if(url === 'http://localhost/web/computo.php'){
+																	var titulo = 'Cómputo Y consumibles';
+																	document.title = titulo;
 		}
 	}
 	window.onload = changePageTitle();

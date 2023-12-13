@@ -6,7 +6,7 @@
 					<p>Brindamos soluciones integrales de comunicación y de seguridad a nuestros clientes con la última tecnología.</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
-					<h4>Partners</h4>
+					<h4>Distribuidores autorizados de marcas como:</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="https://syscom.mx">SYSCOM</a></li>
 						<li><a href="https://tvc.mx/">TVC EN LÍNEA</a></li>
@@ -45,10 +45,10 @@
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<!--<li><a href="#"><i class="icon-twitter"></i></a></li>-->
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="index.php"><i class="icon-dribbble"></i></a></li>
 						</ul>
 					</p>
 				</div>

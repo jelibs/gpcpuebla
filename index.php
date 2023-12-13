@@ -80,10 +80,10 @@
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
-							<i class=""><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/v1701701271/patrulla_apwisi.jpg" alt=""></i>
+							<i class=""><a href="patrullas.php"><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/v1701701271/patrulla_apwisi.jpg" alt=""></a></i>
 						</span>
 						<div class="desc">
-							<h3><a href="#">Equipamiento para patrullas</a></h3>
+							<h3><a href="patrullas.php">Equipamiento para patrullas</a></h3>
 							<p>Contamos con todo tipo de equipamiento para patrullas.</p>
 						</div>
 					</div>
@@ -91,10 +91,10 @@
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
-							<i class=""><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/c_scale,h_91,w_181/v1701702869/ambulancias_tikfgy.png" alt=""></i>
+							<i class=""><a href="ambulancias.php"><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/c_scale,h_91,w_181/v1701702869/ambulancias_tikfgy.png" alt=""></a></i>
 						</span>
 						<div class="desc">
-							<h3><a href="#">Equipamiento para ambulancias</a></h3>
+							<h3><a href="ambulancias.php">Equipamiento para ambulancias</a></h3>
 							<p>Equipamiento profesional y la última tecnología en equipamiento para ambulancias.</p>
 						</div>
 					</div>
@@ -102,10 +102,10 @@
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
-							<i><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/c_scale,h_91,w_181/v1701704481/RADIO_gvqbs3.jpg" alt=""></i>
+							<i><a href="radio.php"><img src="https://res.cloudinary.com/dcpbamvnx/image/upload/c_scale,h_91,w_181/v1701704481/RADIO_gvqbs3.jpg" alt=""></a></i>
 						</span>
 						<div class="desc">
-							<h3><a href="#">Radiocomunicación</a></h3>
+							<h3><a href="radio.php">Radiocomunicación</a></h3>
 							<p>Contamos con las mejores marcas del mercado y al mejor precio.</p>
 						</div>
 					</div>
